@@ -51,7 +51,7 @@ android {
 
 dependencies {
 
-    val nav_versions = "2.7.4"
+    val nav_versions = "2.7.7"
     implementation ("androidx.navigation:navigation-compose:${nav_versions}")
     //네비게이션 라이브러리 추가
 
